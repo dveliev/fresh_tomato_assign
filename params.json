@@ -1,0 +1,6 @@
+{
+  "name": "Fresh tomato assign",
+  "tagline": "",
+  "body": "This is a repo of my assignment for the Udacity`s Fullstack development nanodegree\r\n\r\n## Installation\r\n\r\n1. Clone the repository\r\n2. Fill in the \"movies.txt\" and \"tvshows.txt\" files*\r\n3. Run the init.py file. This will automatically generate an html file\r\n\r\n*Movies.txt - You need to provide the name of the film and a youtube link for its trailer. Each one of the movies needs to be on a new line\r\n\r\n*Tvshows.txt - You need to provide just the name of the TV Show. Each TV Show name needs to be on a new line",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
